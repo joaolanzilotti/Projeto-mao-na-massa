@@ -1,5 +1,5 @@
 
-package com.prefeitura.model;
+package com.br.model;
 
 import java.math.BigDecimal;
 import java.text.DecimalFormat;

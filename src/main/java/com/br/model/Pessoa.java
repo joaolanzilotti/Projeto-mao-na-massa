@@ -1,5 +1,5 @@
 
-package com.prefeitura.model;
+package com.br.model;
 
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;

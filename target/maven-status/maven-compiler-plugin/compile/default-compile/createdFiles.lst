@@ -1,4 +1,4 @@
-com\prefeitura\projetomaonamassa\Projetomaonamassa.class
-com\prefeitura\controller\Controller.class
-com\prefeitura\model\Funcionario.class
-com\prefeitura\model\Pessoa.class
+com\br\controller\Controller.class
+com\br\projetomaonamassa\Projetomaonamassa.class
+com\br\model\Pessoa.class
+com\br\model\Funcionario.class
